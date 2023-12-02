@@ -2,23 +2,24 @@
 
 👀 Mis intereses :
 
-- Desarollo Java utilizando tecnologias como javaFx, JPA, JDBC, Java EE y SpringBoot.
-- Diseño UX/UI para paginas web y aplicaciones moviles.
-- Manejo de bases de datos como MySQl y Oracle.
-- Desarrollo Web utilizando tecnologias como HTML, CSS, javascript y Node.js, ademas
-  de frameworks y librerias como Tailwind y React.
+- Desarollo Java utilizando tecnologias como JavaFx, JPA, JDBC, Java EE y SpringBoot.
+- Diseño UX/UI para paginas y aplicaciones web, ademas de aplicaciones moviles.
+- Manejo de bases de datos MySQl y Oracle.
+- Desarrollo Web utilizando tecnologías:  HTML, CSS, Javascript y Node.js, además
+  de frameworks y librerías como Tailwind y React.
   
 
 🌱 Actualmente estoy aprendiendo:
 
-- Desarollo web, utilizando tecnologias como springboot para Java y node.js para Javascript.
+- Desarollo web, utilizando tecnologias como Springboot para Java y Node.js para Javascript.
 - Ademas de la certificación diseño UX/UI por parte de Google, complementando dicha
   certificación con tecnologias como HTML, Css, Tailwind y React.
 
 💞️ Busco colaborar en:
 
-- Proyectos de back end usando Java con sptringBoot o JavaScript usando Node.js.
-- Proyectos de UX/UI para aplicaciones moviles y paginas web.
+- Proyectos de Back end usando Java con SptringBoot o JavaScript usando Node.js.
+- Proyectos de Front end usando HTML, CSS, Bootstrap Tailwind y React.
+- Proyectos de UX/UI para aplicaciones móviles y paginas web.
 
 📫 Cómo comunicarse conmigo:
 
